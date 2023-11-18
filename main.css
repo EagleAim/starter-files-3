@@ -24,6 +24,7 @@ a:focus, a:hover {
 }
 
 body {
+	background-color: black;
 	width: 800px;
 	letter-spacing: 1px;
 	margin: 20px;
@@ -39,19 +40,21 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 90px;
 	line-height: 100px;
-	
+	color: gold;
 }
 
 h2 {
 	font-size: 30px;
 	line-height: 70px;
+	color: darkorange;
 }
 
 h3 {
 	font-size: 20px;
 	line-height: 70px;
+	color: lightgreen;
 }
 
 header {
@@ -59,7 +62,7 @@ header {
 }
 
 main {
-
+	background-color: blueviolet;
 }
 
 p {
@@ -69,6 +72,7 @@ p {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	margin: 20px;
 	text-align: left;
+	color: aliceblue;
 }
 
 #intro {
